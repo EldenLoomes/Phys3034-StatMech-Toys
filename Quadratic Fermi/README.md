@@ -1,4 +1,4 @@
-Quadratic Fermi
+Fermion density of states
 ==================================================================
 This program samples a Fermi-Dirac distribution under a density of states, for a particular particle number $N$ and temperature $T$, varying the chemical potential $\mu$ to find an appropriate value matching $N$. This nicely reproduces the Sommerfeld expansion.
 
